@@ -5,8 +5,14 @@ out/
 # Gradle
 .gradle/
 gradle-app.setting
-!gradle-wrapper.jar
-!!gradle-wrapper.jar
+
+# Gradle wrapper (ignored - should be downloaded separately)
+gradle/wrapper/*.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Gradlew
+gradlew
+gradlew.bat
 
 # IDE
 .idea/
