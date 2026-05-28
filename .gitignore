@@ -36,5 +36,5 @@ build/test-results/
 Thumbs.db
 
 # Specific test files to exclude
-src/test/java/ExtendedLoginTests.java
-src/test/java/ComprehensiveMissingTests.java
+src/test/java/tests.ExtendedLoginTests.java
+src/test/java/tests.ComprehensiveMissingTests.java
