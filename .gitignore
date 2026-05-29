@@ -2,6 +2,7 @@
 build/
 out/
 
+
 # Gradle
 .gradle/
 gradle-app.setting
@@ -38,3 +39,4 @@ Thumbs.db
 # Specific test files to exclude
 src/test/java/tests.ExtendedLoginTests.java
 src/test/java/tests.ComprehensiveMissingTests.java
+src/test/java/tests/examples
